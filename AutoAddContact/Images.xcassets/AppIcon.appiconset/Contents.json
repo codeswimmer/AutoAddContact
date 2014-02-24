@@ -3,13 +3,13 @@
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "AutoAddContact-Settings@2x.png",
+      "filename" : "AutoAddContact-Settings@2x-1.png",
       "scale" : "2x"
     },
     {
       "size" : "40x40",
       "idiom" : "iphone",
-      "filename" : "AutoAddContact-Spotlight@2x.png",
+      "filename" : "AutoAddContact-Spotlight@2x-1.png",
       "scale" : "2x"
     },
     {
@@ -27,7 +27,7 @@
     {
       "size" : "29x29",
       "idiom" : "ipad",
-      "filename" : "AutoAddContact-Settings@2x-1.png",
+      "filename" : "AutoAddContact-Settings@2x.png",
       "scale" : "2x"
     },
     {
@@ -39,7 +39,7 @@
     {
       "size" : "40x40",
       "idiom" : "ipad",
-      "filename" : "AutoAddContact-Spotlight@2x-1.png",
+      "filename" : "AutoAddContact-Spotlight@2x.png",
       "scale" : "2x"
     },
     {
